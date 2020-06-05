@@ -6,7 +6,7 @@ Video for context:
 //todo
 
 Demo hosted on Heroku:
-https://butterflix.herokuapp.com/
+//todo
 
 Training dataset from veeralakrishna via Kaggle:
 https://www.kaggle.com/veeralakrishna/butterfly-dataset
