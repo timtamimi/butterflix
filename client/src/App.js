@@ -31,7 +31,7 @@ function App() {
   }, [])
 
   return (
-    <div className="App" style={{maxWidth: 1000, padding: "1em"}}>
+    <div className="App" style={{ maxWidth: 1000, padding: "1em", margin: "auto" }}>
       <h1>Butterflix</h1>
       <p>Identify butterflies from images.</p>
       {classification ? (
@@ -60,7 +60,7 @@ function App() {
             </div> : null
             }
 
-            <span style={{display: training == true || processing == true ? "none" : "block"}}>
+            <span style={{ display: training == true || processing == true ? "none" : "block" }}>
               <Upload
                 name={"upload"}
                 showUploadList={false}
