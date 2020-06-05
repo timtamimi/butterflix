@@ -1,7 +1,12 @@
-# moood
+# butterflix
+
+## Butterfly identification app
 
 Video for context:
-https://www.youtube.com/watch?v=ZfuUwdFNU-s
+//todo
 
 Demo hosted on Heroku:
-https://mooodclassifier.herokuapp.com/
+https://butterflix.herokuapp.com/
+
+Training dataset from veeralakrishna via Kaggle:
+https://www.kaggle.com/veeralakrishna/butterfly-dataset
